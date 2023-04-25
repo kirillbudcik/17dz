@@ -46,3 +46,15 @@ img {
 .bbody {
     background-color: darkgray;
 }
+
+.hh {
+    text-align: center;
+}
+.pp {
+    text-align: center;
+    text-decoration-color: darkgray;
+}
+
+.bbb {
+    background-color: rgb(59, 55, 55);
+}
